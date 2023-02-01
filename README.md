@@ -3,11 +3,10 @@
 - 20 yo french student 
 - BTS SN-IR, Lycée Pierre Mendes France, Epinal
 - Licence Pro CIASIE, Nancy-Charlemagne, Nancy
-- You can contact me on :
-    📧 : damienpoirot@yahoo.com
-    <a href="https://www.instagram.com/damien_poirot" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="sass" width="20" height="20"/> : 
-    </a>
+- You can contact me on :     
+ <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mail" width="15" height="15"/> : damienpoirot@yahoo.com <br>
+ <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" width="15" height="15"/> : 
+    <a href="https://www.instagram.com/damien_poirot" target="_blank" rel="noreferrer">damien_poirot</a>
 
 # 💻 Tech Stack:
 <p align="left"> 

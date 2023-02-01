@@ -25,6 +25,9 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> 
   </a>
+  <a href="https://vuejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="nodejs" width="40" height="40"/> 
+  </a>
   <a href="https://reactjs.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="40" height="40"/> 
   </a>  

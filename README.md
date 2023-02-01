@@ -1,6 +1,6 @@
 # Hi, I'm Damien 👋
 
-- 20 yo french student 🇫🇷
+- 20 yo french student 
 - BTS SN-IR, Lycée Pierre Mendes France, Epinal
 - Licence Pro CIASIE, Nancy-Charlemagne, Nancy
 - DM me : damienpoirot@yahoo.com 📧
@@ -27,7 +27,10 @@
   </a>  
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> 
+  </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 

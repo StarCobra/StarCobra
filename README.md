@@ -1,7 +1,8 @@
 # Hi, I'm Damien 👋
 
-- 20 yo french student 
-- BTS SN-IR, Lycée Pierre Mendes France, Epinal
+- 21 yo french student 
+- BAC STI2D, Pierre Mendes France, Epinal
+- BTS SN-IR, Pierre Mendes France, Epinal
 - Licence Pro CIASIE, Nancy-Charlemagne, Nancy
 - If you want see my portfolio :
  <a href="https://portfolio-damien-poirot.netlify.app/">portfolio-damien-poirot.netlify.app</a>

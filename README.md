@@ -66,7 +66,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=StarCobra&theme=dark&hide_border=true)<br>
 ![](https://github-readme-stats.vercel.app/api?username=StarCobra&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=StarCobra&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=StarCobra&theme=dark&hide_border=true&include_all_commits=true&count_public=true&layout=compact)
 
 <!---
 StarCobra/StarCobra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,8 +4,8 @@
 - BAC STI2D, Pierre Mendes France, Epinal
 - BTS SN-IR, Pierre Mendes France, Epinal
 - Licence Pro CIASIE, Nancy-Charlemagne, Nancy
-- If you want see my portfolio :
- <a href="https://portfolio-damien-poirot.netlify.app/" target="_blank">portfolio-damien-poirot.netlify.app</a>
+ <!--- If you want see my portfolio :
+<a href="https://portfolio-damien-poirot.netlify.app/" target="_blank">portfolio-damien-poirot.netlify.app</a>-->
 - You can contact me on :     
  <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mail" width="15" height="15"/> : damienpoirot@yahoo.com <br>
  <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" width="15" height="15"/> : 

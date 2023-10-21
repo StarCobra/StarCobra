@@ -4,6 +4,7 @@
 - BAC STI2D, Pierre Mendes France, Epinal
 - BTS SN-IR, Pierre Mendes France, Epinal
 - Licence Pro CIASIE, Nancy-Charlemagne, Nancy
+- Master Epitech, Nancy
  <!--- If you want see my portfolio :
 <a href="https://portfolio-damien-poirot.netlify.app/" target="_blank">portfolio-damien-poirot.netlify.app</a>-->
 - You can contact me on :     
